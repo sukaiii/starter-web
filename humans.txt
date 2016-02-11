@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	kevin chang		hotmail@hotmail.com
+	kajksjsa;lkf
 
 # THANKS
 
