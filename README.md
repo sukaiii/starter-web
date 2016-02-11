@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 lallalalasl eexample
 
 ## New section
+
+## Copyright info
+add copyright info
