@@ -1,7 +1,6 @@
 # Starter Web Repo
 svavadasdfas
-
-askl'ajladbbjakljaoi4a
+adding a line to rebasing example
 This repository is for showing how Git and GitHub work
 
 ## Purpose
