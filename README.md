@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 lallalalasl eexample
 
 ## New section
+this is test of branch merge with master changes
 
 ## Copyright info
 add copyright info
